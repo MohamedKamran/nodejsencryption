@@ -1,0 +1,14 @@
+{
+  "name": "nodejsencryption",
+  "version": "1.0.0",
+  "description": "A Demo Encryption App for Practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Mohamed Kamran",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
